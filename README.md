@@ -35,4 +35,12 @@ Once the project is running, you will see the global map displayed. You can zoom
 Add more layers to the map (e.g., political boundaries, terrain, etc.).<br>
 Improve performance for large datasets.<br>
 Enhance marker customization and clustering algorithms.<br>
-Implement additional data filters based on user input.
+Implement additional data filters based on user input.<br>
+
+**Project Demo:**
+<br>
+Click the image to view the demo <br>
+<a href="https://youtu.be/ZNU5DzfLdPM" target="_blank">
+    <img src="https://img.youtube.com/vi/ZNU5DzfLdPM/0.jpg" alt="Video Title" />
+</a>
+
